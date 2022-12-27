@@ -62,3 +62,6 @@ I’m a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenRok1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
