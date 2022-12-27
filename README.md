@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
+</div>
+
+<!-- https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge -->
+
+<div id="badges" align="center">
+  <a href="t.me/hanrok">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<h1 align="center">
+  Hi everyone
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
