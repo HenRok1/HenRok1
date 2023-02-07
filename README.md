@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="300"/>
-</div>
+</div> -->
 
 ### :man_technologist: About Me :
 I’m a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
