@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div> -->
 
 ### :man_technologist: About Me :
-I’m a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a Junior C/C++ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :keyboard: I’m studying at School 21 from Sber
 
