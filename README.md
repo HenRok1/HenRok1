@@ -44,8 +44,8 @@ I’m a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :calendar: In my free time, I do projects and read technical documentation.
 
-- :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanrok)
-
+<!-- - :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanrok)
+ -->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
