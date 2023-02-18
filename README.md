@@ -42,7 +42,7 @@ I’m a Junior C/C++ Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :books: I’m studying at university
 
-- :calendar: In my free time, I do projects and read technical documentation.
+- :calendar: In my free time, I make projects and read technical documentation.
 
 <!-- - :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanrok)
  -->
